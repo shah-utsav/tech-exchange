@@ -1,0 +1,12 @@
+Chadwick Boseman|Black Panther
+Lupita Nyong'o|Black Panther
+Lupita Nyong'o|Star Wars 8
+Oscar Isaac|Star Wars 8
+Oscar Isaac|Dune
+Zendaya|Dune
+Zendaya|Space Jam 2
+Michael B. Jordan|Black Panther
+Michael B. Jordan|Space Jam 2
+Bugs Bunny|Space Jam
+Bugs Bunny|Space Jam 2
+Bill Murray|Space Jam

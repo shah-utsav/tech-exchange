@@ -1,0 +1,1 @@
+def cheat_codes(n)
